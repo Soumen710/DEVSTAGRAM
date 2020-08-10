@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Devstagram/static/css/main.3bc4b44c.chunk.css",
+    "main.js": "/Devstagram/static/js/main.5a2d0efa.chunk.js",
+    "main.js.map": "/Devstagram/static/js/main.5a2d0efa.chunk.js.map",
+    "runtime-main.js": "/Devstagram/static/js/runtime-main.5fc3682a.js",
+    "runtime-main.js.map": "/Devstagram/static/js/runtime-main.5fc3682a.js.map",
+    "static/js/2.6bec2f5b.chunk.js": "/Devstagram/static/js/2.6bec2f5b.chunk.js",
+    "static/js/2.6bec2f5b.chunk.js.map": "/Devstagram/static/js/2.6bec2f5b.chunk.js.map",
+    "index.html": "/Devstagram/index.html",
+    "precache-manifest.6fe3d0a1c0cdb6f6e3c438452d8b1a28.js": "/Devstagram/precache-manifest.6fe3d0a1c0cdb6f6e3c438452d8b1a28.js",
+    "service-worker.js": "/Devstagram/service-worker.js",
+    "static/css/main.3bc4b44c.chunk.css.map": "/Devstagram/static/css/main.3bc4b44c.chunk.css.map",
+    "static/js/2.6bec2f5b.chunk.js.LICENSE.txt": "/Devstagram/static/js/2.6bec2f5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fc3682a.js",
+    "static/js/2.6bec2f5b.chunk.js",
+    "static/css/main.3bc4b44c.chunk.css",
+    "static/js/main.5a2d0efa.chunk.js"
+  ]
+}
